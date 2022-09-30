@@ -1,0 +1,89 @@
+{
+  "filme": [
+    {
+      "id": "1",
+      "titulo": "Os outros",
+      "genero": "Terror"
+    },
+    {
+      "id": "2",
+      "titulo": "Até o último homem",
+      "genero": "Ação"
+    },
+    {
+      "id": "3",
+      "titulo": "O máscara",
+      "genero": "Comédia"
+    },
+    {
+      "titulo": "Querido John",
+      "genero": "Romance",
+      "id": "4"
+    },
+    {
+      "titulo": "SOS Mulheres ao Mar",
+      "genero": "Comédia",
+      "id": "5"
+    }
+  ],
+  "genero": [
+    {
+      "genero": "Terror",
+      "id": "1"
+    },
+    {
+      "genero": "Ação",
+      "id": "2"
+    },
+    {
+      "genero": "Comédia",
+      "id": "3"
+    },
+    {
+      "genero": "exemplo",
+      "id": "4"
+    },
+    {
+      "genero": "wexemplodois",
+      "id": "5"
+    }
+  ],
+  "usuario": [
+    {
+      "nome": "Paulo Andre",
+      "email": "paulo@email.com",
+      "telefone": "334956788",
+      "id": "1"
+    },
+    {
+      "nome": "Marcus Lucio",
+      "email": "marcus@email.com",
+      "telefone": "236758994",
+      "id": "2"
+    },
+    {
+      "nome": "Laura Port",
+      "email": "laura@email.com",
+      "telefone": "334986788",
+      "id": "3"
+    },
+    {
+      "nome": "Veronica Carmo",
+      "email": "veronica@email.com",
+      "telefone": "21971638650",
+      "id": "4"
+    },
+    {
+      "nome": "Matheus Roberto",
+      "email": "matheus@email.com",
+      "telefone": "21345674890",
+      "id": "6"
+    },
+    {
+      "nome": "exemploo",
+      "email": "exemplo@email.com",
+      "telefone": "21123456789",
+      "id": "8"
+    }
+  ]
+}
